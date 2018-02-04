@@ -1,0 +1,15 @@
+
+[{shop_url}]
+
+Bonjour {firstname} {lastname},
+
+
+La quantité du stock : {stockname}, à changé.
+
+La nouvelle quantité est donc maintenant de : {stockquantity}.
+Vous pouvez accéder à tout moment au suivi de votre stock ici : {stockurl}.
+
+
+{shop_name} [{shop_url}] powered
+by PrestaShop(tm) [http://www.prestashop.com/]
+
